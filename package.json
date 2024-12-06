@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "2.2.2",
+    "@types/bcryptjs": "2.4.6",
     "@types/node": "^22.10.1",
     "eslint": "^8.33.0",
     "prisma": "6.0.1",
@@ -19,6 +20,7 @@
   },
   "dependencies": {
     "@prisma/client": "6.0.1",
+    "bcryptjs": "2.4.3",
     "dotenv": "16.4.6",
     "fastify": "^5.1.0",
     "zod": "3.23.8"
