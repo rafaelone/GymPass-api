@@ -6,12 +6,12 @@ GymPass Style App
 
 - [x] Should be able to registered;
 - [x] Should be able to authenticated;
-- [] Should be able to get a logged user profile;
+- [x] Should be able to get a logged user profile;
 - [] Should be able to get a number of check-ins by logged user;
 - [] Should be able to get a history of check-ins;
 - [] Should be able for users to search for nearby gyms;
 - [] Should be able for user to search gyms by name;
-- [] Should be able for user to check in at a gym;
+- [x] Should be able for user to check in at a gym;
 - [] Should be able validate a user check-in;
 - [] Should be able to register a new gym;
 
