@@ -4,7 +4,7 @@ GymPass Style App
 
 ## RFs
 
-- [] Should be able to registered;
+- [x] Should be able to registered;
 - [] Should be able to authenticated;
 - [] Should be able to get a logged user profile;
 - [] Should be able to get a number of check-ins by logged user;
@@ -17,7 +17,7 @@ GymPass Style App
 
 ## RNs
 
-- [] The user must not be able to register with a duplicate email;
+- [x] The user must not be able to register with a duplicate email;
 - [] The user cannot make 2 check-ins on the same day;
 - [] The user cannot check-in if he/she is not close (100m) to the gym
 - [] The check-in can only be validated up to 20 minutes after being created;
@@ -26,6 +26,6 @@ GymPass Style App
 
 # RNFs
 
-- [] The user password must be encrypted
-- [] Application data must be persisted in a PostgreSQL database
+- [x] The user password must be encrypted
+- [x] Application data must be persisted in a PostgreSQL database
 - [] All data lists must be paginated with 20 items per page
