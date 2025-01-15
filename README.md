@@ -5,7 +5,7 @@ GymPass Style App
 ## RFs
 
 - [x] Should be able to registered;
-- [] Should be able to authenticated;
+- [x] Should be able to authenticated;
 - [] Should be able to get a logged user profile;
 - [] Should be able to get a number of check-ins by logged user;
 - [] Should be able to get a history of check-ins;
